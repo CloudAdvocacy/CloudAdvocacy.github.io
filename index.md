@@ -1,5 +1,3 @@
----
-
 # Azure Cloud Advocacy
 
 Hello! If you come here, you probably want to learn something about Microsoft Azure Cloud. Here are a few introductory
